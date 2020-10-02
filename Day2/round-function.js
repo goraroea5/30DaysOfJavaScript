@@ -25,7 +25,7 @@ console.log('name include :',name.includes('Script'))
 console.log('name split: ',name.split(0,1))
 console.log('name split:', name.split(2,0,' '))
 let brand = "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon"
-console.log('brand split:', brand.split(','))
+console.log(' split:', brand.split(','))
 console.log('name replace :',name.replace('JavaScript', 'Python'))
 console.log('name charat :',name.charAt(15))
 console.log('name charcodeat', name.charCodeAt('J'))
